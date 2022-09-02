@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Progressive Web Application Challenge: Text Editor
 **Heroku Link: https://gabrielwagnerpwa.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/102180936/188074715-aa559672-84c8-46a3-bb83-add28fc21509.png)

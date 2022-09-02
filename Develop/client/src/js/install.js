@@ -27,3 +27,4 @@ window.addEventListener('appinstalled', (event) => {
 });
 
 //code source module 19.5.4, https://www.amitmerchant.com/adding-custom-install-button-in-progressive-web-apps/
+//
